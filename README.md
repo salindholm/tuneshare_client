@@ -8,7 +8,7 @@ This is a mobile application where the user can post their favorite music. We ar
 
 ### Installation
 
-1. Fork and clone [Tune Share Client](https://github.com/CraftAcademy/tuneshare_client) to your local workspace.
+1. Fork and clone [TuneShare Client](https://github.com/KyunginNa/tuneshare_client) to your local workspace.
 
 2. Install the project dependencies.
 
@@ -27,14 +27,10 @@ or
 ```
 yarn android
 ```
-web
-```
-yarn web
-```
 
 ### The API can be found here:
 
-- [Tune Share API](https://github.com/CraftAcademy/tuneshare_api)
+- [TuneShare API](https://github.com/KyunginNa/tuneshare_api)
 
 ## Dependencies
 
@@ -50,11 +46,8 @@ yarn web
 * Expo-auth-session
 * Expo-av
 * Expo-font
-* Expo-linear-gradient
-* Expo-linking
 * Expo-random
 * Expo-status-bar
-* Expo-web-browser
 * React
 * React-dom
 * React-native
