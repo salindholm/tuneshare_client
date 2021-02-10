@@ -8,7 +8,7 @@ This is a mobile application where the user can post their favorite music. We ar
 
 ### Installation
 
-1. Fork and clone [TuneShare Client](https://github.com/KyunginNa/tuneshare_client) to your local workspace.
+1. Fork and clone [TuneShare Client](https://github.com/salindholm/tuneshare_client) to your local workspace.
 
 2. Install the project dependencies.
 
@@ -30,7 +30,7 @@ yarn android
 
 ### The API can be found here:
 
-- [TuneShare API](https://github.com/KyunginNa/tuneshare_api)
+- [TuneShare API](https://github.com/salindholm/tuneshare_api)
 
 ## Dependencies
 
