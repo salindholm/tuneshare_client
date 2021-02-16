@@ -6,6 +6,7 @@ This is a mobile application where the user can post their favorite music. We ar
 
 ## Screenshots
 ![Screenshot1](./src/images/Screenshot1.png)
+![Screenshot4](./src/images/Screenshot4.png)
 ![Screenshot2](./src/images/Screenshot2.png)
 ![Screenshot3](./src/images/Screenshot3.png)
 
